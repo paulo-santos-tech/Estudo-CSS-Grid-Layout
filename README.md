@@ -4,12 +4,10 @@ Este repositório apresenta o projeto **Wildbeast**, desenvolvido como caso de e
 
 ## 📜 Certificação
 
-- **Curso:** CSS Grid Layout (10 horas)
-- **Instituição:** Origamid
-- **Instrutor:** André Rafael
-- **Início:** 24/04/2025
-- **Conclusão:** 28/04/2025
-- **Certificado:** [Link para o certificado](https://origamid.com/certificate/ea6ec449)
+**Certificado de Conclusão**:  
+👤 **Paulo Santos**  
+📆 **Duração**: 24/04/2025 a 28/04/2025  
+📄 [Ver certificado oficial](https://origamid.com/certificate/ea6ec449)
 
 ## 📚 Conteúdos aprendidos e aplicados
 
@@ -42,5 +40,9 @@ Também foram abordadas boas práticas de **responsividade** com CSS Grid, adapt
 - **HTML5**
 - **CSS3 (foco em CSS Grid Layout)**
 
-## 🖥️ Print do Projeto Wildbeast
+## 📸 Screenshots
+
+<p aling="center">
+  <img src="https://raw.githubusercontent.com/paulo-santos-tech/Estudo-CSS-Grid-Layout/refs/heads/main/Amostra%20Home/Home%20-%20Wildbeast.jpeg" width="600" alt="Homepage do FlexBlog">
+</p>
 
